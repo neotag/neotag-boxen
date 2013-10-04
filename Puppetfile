@@ -36,3 +36,7 @@ github "xquartz",    "1.1.0"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
+
+github "chrome",    "1.1.0"
+github "alfred",    "1.1.5"
+github "skype",     "1.0.5"
