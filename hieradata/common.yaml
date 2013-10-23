@@ -1,0 +1,9 @@
+---
+
+redis::config::port: 6379
+elasticsearch::config::port: 9200
+elasticsearch::config::transport: 9300
+
+memcached::config::port: 11211
+mongodb::port: 27017
+mongodb::config::port: 27017

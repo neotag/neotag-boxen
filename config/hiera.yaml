@@ -1,0 +1,10 @@
+---
+
+:backends:
+  - yaml
+:yaml:
+  :datadir: '/opt/boxen/repo/hieradata'
+:logger: console
+:hierarchy:
+  - common
+

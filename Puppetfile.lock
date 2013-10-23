@@ -14,6 +14,11 @@ GITHUBTARBALL
     boxen (3.0.2)
 
 GITHUBTARBALL
+  remote: boxen/puppet-charles
+  specs:
+    charles (1.0.2)
+
+GITHUBTARBALL
   remote: boxen/puppet-chrome
   specs:
     chrome (1.1.0)
@@ -22,6 +27,11 @@ GITHUBTARBALL
   remote: boxen/puppet-dnsmasq
   specs:
     dnsmasq (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-dropbox
+  specs:
+    dropbox (1.1.1)
 
 GITHUBTARBALL
   remote: boxen/puppet-gcc
@@ -44,6 +54,26 @@ GITHUBTARBALL
     hub (1.0.3)
 
 GITHUBTARBALL
+  remote: boxen/puppet-imagemagick
+  specs:
+    imagemagick (1.2.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-java
+  specs:
+    java (1.1.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-keyremap4macbook
+  specs:
+    keyremap4macbook (1.0.4)
+
+GITHUBTARBALL
+  remote: boxen/puppet-mysql
+  specs:
+    mysql (1.1.5)
+
+GITHUBTARBALL
   remote: boxen/puppet-nginx
   specs:
     nginx (1.4.2)
@@ -57,6 +87,11 @@ GITHUBTARBALL
   remote: boxen/puppet-openssl
   specs:
     openssl (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-phantomjs
+  specs:
+    phantomjs (2.0.2)
 
 GITHUBTARBALL
   remote: boxen/puppet-repository
@@ -74,6 +109,11 @@ GITHUBTARBALL
     skype (1.0.5)
 
 GITHUBTARBALL
+  remote: boxen/puppet-sourcetree
+  specs:
+    sourcetree (1.0.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-sudo
   specs:
     sudo (1.0.0)
@@ -82,6 +122,26 @@ GITHUBTARBALL
   remote: boxen/puppet-xquartz
   specs:
     xquartz (1.1.0)
+
+GITHUBTARBALL
+  remote: neotag/puppet-elasticsearch
+  specs:
+    elasticsearch (1.0.3.4)
+
+GITHUBTARBALL
+  remote: neotag/puppet-memcached
+  specs:
+    memcached (1.2.0.1)
+
+GITHUBTARBALL
+  remote: neotag/puppet-mongodb
+  specs:
+    mongodb (1.0.4.1)
+
+GITHUBTARBALL
+  remote: neotag/puppet-redis
+  specs:
+    redis (0.3.2)
 
 GITHUBTARBALL
   remote: puppetlabs/puppetlabs-inifile
@@ -97,19 +157,31 @@ DEPENDENCIES
   alfred (= 1.1.5)
   autoconf (= 1.0.0)
   boxen (= 3.0.2)
+  charles (= 1.0.2)
   chrome (= 1.1.0)
   dnsmasq (= 1.0.0)
+  dropbox (= 1.1.1)
+  elasticsearch (= 1.0.3.4)
   gcc (= 2.0.1)
   git (= 1.2.5)
   homebrew (= 1.4.1)
   hub (= 1.0.3)
+  imagemagick (= 1.2.0)
   inifile (= 1.0.0)
+  java (= 1.1.0)
+  keyremap4macbook (= 1.0.4)
+  memcached (= 1.2.0.1)
+  mongodb (= 1.0.4.1)
+  mysql (= 1.1.5)
   nginx (= 1.4.2)
   nodejs (= 3.2.9)
   openssl (= 1.0.0)
+  phantomjs (= 2.0.2)
+  redis (= 0.3.2)
   repository (= 2.2.0)
   ruby (= 6.3.4)
   skype (= 1.0.5)
+  sourcetree (= 1.0.0)
   stdlib (= 4.1.0)
   sudo (= 1.0.0)
   xquartz (= 1.1.0)
